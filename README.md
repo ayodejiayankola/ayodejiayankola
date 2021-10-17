@@ -17,7 +17,7 @@ I am very passionate about the ios development eco system.
 
 💬 Ask me about: IOS Development using Swift, SwiftUI and anything about the ios ecosystem. 
 
-🌱 I’m currently learning more about Swift UI
+🌱 I’m currently learning more about SwiftUI
 
 📫 How to reach me: You can find me on linkedin. I'm always there
 
