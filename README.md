@@ -6,6 +6,23 @@
   <a href="https://www.linkedin.com/in/ayodeji-ayankola/" rel="nofollow"><g-emoji class="g-emoji" alias="vhs" fallback-src="https://img.icons8.com/color/50/000000/linkedin.png">📼</g-emoji> LinkedIn </a>
 </p>
 
+
+
+I am an IOS Engineer 👩🏽‍💻 and a Tech Content Creator 🚀
+
+I am very passionate about ios development eco system.
+
+🔭 I have strong intrest in swift server side using vapor and block chain technology using swift vapor.
+
+💬 Ask me about: IOS Development using Swift, SwiftUI and anything about the ios ecosystem. 
+
+🌱 I’m currently learning more about Swift UI
+
+📫 How to reach me: You can find me on linkedin. I'm always there
+
+⚡ Fun fact: I really love writing. I write for fun 😄 
+
+, backend using swift vapor & block chain
 <!--
 **ayodejiayankola/ayodejiayankola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
