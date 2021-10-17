@@ -1,4 +1,10 @@
-### Hi there 👋
+<h3 align="center"> 👋 Hello, I'm Ayodeji Ayankola  🤝 </h3>
+<p align="center">
+  <a href="#" rel="nofollow"><g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">🌍</g-emoji> Website</a> • 
+  <a href="https://ayodejiayankola.medium.com/" rel="nofollow"><g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Blog</a> • 
+  <a href="https://twitter.com/ayodejiayankola" rel="nofollow"><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">📱</g-emoji> Twitter</a> • 
+  <a href="https://www.linkedin.com/in/ayodeji-ayankola/" rel="nofollow"><g-emoji class="g-emoji" alias="vhs" fallback-src="https://img.icons8.com/color/50/000000/linkedin.png">📼</g-emoji> LinkedIn </a>
+</p>
 
 <!--
 **ayodejiayankola/ayodejiayankola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
