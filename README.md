@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/ayodeji-ayankola/" rel="nofollow"><g-emoji class="g-emoji" alias="vhs" fallback-src="https://img.icons8.com/color/50/000000/linkedin.png">📼</g-emoji> LinkedIn </a>
 </p>
 
-<p><a href="#" rel="nofollow"><img src="https://fitmeals.com.ng/wp-content/uploads/2021/10/Ayodeji-Ayankola.png" alt="Ayodeji Ayankola" data-canonical-src="https://fitmeals.com.ng/wp-content/uploads/2021/10/Ayodeji-Ayankola.png" style="max-width: 100%;"></a></p>
+<p align="center"><a href="#" rel="nofollow"><img src="https://fitmeals.com.ng/wp-content/uploads/2021/10/Ayodeji-Ayankola.png" alt="Ayodeji Ayankola" data-canonical-src="https://fitmeals.com.ng/wp-content/uploads/2021/10/Ayodeji-Ayankola.png" style="max-width: 100%;"></a></p>
 
 
 I am an IOS Engineer 👩🏽‍💻 and a Tech Content Creator 🚀
@@ -23,7 +23,6 @@ I am very passionate about ios development eco system.
 
 ⚡ Fun fact: I really love writing. I write for fun 😄 
 
-, backend using swift vapor & block chain
 <!--
 **ayodejiayankola/ayodejiayankola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
