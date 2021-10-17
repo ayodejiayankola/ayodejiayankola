@@ -11,9 +11,9 @@
 
 I am an IOS Engineer 👩🏽‍💻 and a Tech Content Creator 🚀
 
-I am very passionate about ios development eco system.
+I am very passionate about the ios development eco system.
 
-🔭 I have strong intrest in swift server side using vapor and block chain technology using swift vapor.
+🔭 I have strong intrest in swift server side using vapor and block chain technology using swift.
 
 💬 Ask me about: IOS Development using Swift, SwiftUI and anything about the ios ecosystem. 
 
