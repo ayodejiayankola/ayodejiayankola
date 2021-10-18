@@ -9,7 +9,7 @@
 <p align="center"><a href="#" rel="nofollow"><img src="https://fitmeals.com.ng/wp-content/uploads/2021/10/Ayodeji-Ayankola.png" alt="Ayodeji Ayankola" data-canonical-src="https://fitmeals.com.ng/wp-content/uploads/2021/10/Ayodeji-Ayankola.png" style="max-width: 100%;"></a></p>
 
 
-I am an IOS Engineer 👩🏽‍💻 and a Tech Content Creator 🚀
+I am an IOS Engineer 🧑🏿‍💻 and a Tech Content Creator 🚀
 
 I am very passionate about the ios development eco system.
 
