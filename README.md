@@ -6,7 +6,8 @@
   <a href="https://www.linkedin.com/in/ayodeji-ayankola/" rel="nofollow"><g-emoji class="g-emoji" alias="vhs" fallback-src="https://img.icons8.com/color/50/000000/linkedin.png">📼</g-emoji> LinkedIn </a>
 </p>
 
-<p align="center"><a href="#" rel="nofollow"><img src="https://fitmeals.com.ng/wp-content/uploads/2021/10/Ayodeji-Ayankola.png" alt="Ayodeji Ayankola" data-canonical-src="https://fitmeals.com.ng/wp-content/uploads/2021/10/Ayodeji-Ayankola.png" style="max-width: 100%;"></a></p>
+
+![mantra](https://github.com/ayodejiayankola/ayodejiayankola/assets/28652438/a6656f23-4c6e-4a50-8460-06166f0bbf93)
 
 
 I am an IOS Engineer 🧑🏿‍💻 and a Tech Content Creator 🚀
